@@ -1,6 +1,5 @@
-🚀 AI Marketing Toolkit
+FUFUTURE_PE_02 🚀 AI Marketing Toolkit
 
-This project is created as part of an internship task to demonstrate how AI can be used for marketing content creation.
 
 📌 Task 2: UGC Ads Generator
 
